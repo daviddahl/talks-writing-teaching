@@ -18,6 +18,7 @@ Slides: kloak-info-deck-board-of-directors-ddahl.pdf
 
 * Hack In The Box 2014, Kuala Lumpur, Malaysia
 "Multi-user Encrypted Communication with No Trust in the Server": https://conference.hitb.org/hitbsecconf2014kul/sessions/hitb-lab-multi-user-encrypted-communication-with-no-trust-in-the-server/
+
 Slides: HITB-2014-Crypton-Encrypted-talk-ddahl.pdf
 
 WhitePaper: crypton-whitepaper-ddahl.pdf
