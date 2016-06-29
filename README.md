@@ -32,7 +32,8 @@ Video: http://www.cato.org/events/nsa-surveillance-what-we-know-what-do-about-it
 ## Working Groups
 
 * W3C Web Crypto Working Group - (initial) Editor, technical participant
-https://www.w3.org/TR/2012/WD-WebCryptoAPI-20120913/
+
+See: https://www.w3.org/TR/2012/WD-WebCryptoAPI-20120913/
 
 I gave several off the cuff presentations on an API I was working on called "DOMCrypt", which the W3C used for its initial "straw man" API proposal. (I found myself face to face with Tim Berner's Lee for my initial meetings at W3C).
 
