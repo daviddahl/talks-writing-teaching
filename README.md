@@ -1,4 +1,8 @@
-# Speaking, Training, Panels, Working Groups, Blog index: David Dahl
+## Speaking, Training, Panels, Working Groups, Blog index: David Dahl
+
+## Resume
+
+* DavidDahl.pdf
 
 ## Talks
 
